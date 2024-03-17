@@ -1,0 +1,109 @@
+move
+S
+move
+S
+examine
+pick up
+T Card
+[menu]
+inventory
+[menu]
+score
+pick up
+Soda Can
+[menu]
+inventory
+use
+Soda Can
+[menu]
+inventory
+[menu]
+score
+move
+E
+move
+E
+examine
+pick up
+Chip Bag
+[menu]
+inventory
+use
+Chip Bag
+[menu]
+inventory
+[menu]
+score
+move
+E
+examine
+pick up
+Yogurt Cup
+[menu]
+inventory
+use
+Yogurt Cup
+[menu]
+inventory
+[menu]
+score
+move
+S
+examine
+fight
+bypass win
+pick up
+Room Key
+[menu]
+inventory
+[menu]
+score
+move
+N
+move
+N
+move
+E
+examine
+pick up
+Transportation Card
+[menu]
+inventory
+move
+E
+move
+N
+move
+N
+examine
+yes
+BYPASS
+pick up
+Cheat Sheet
+[menu]
+inventory
+[menu]
+score
+move
+W
+move
+W
+move
+W
+move
+W
+move
+W
+examine
+pick up
+Lucky Pen
+[menu]
+inventory
+[menu]
+score
+move
+E
+move
+E
+use
+Transportation Card
